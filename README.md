@@ -1,16 +1,19 @@
-Hi, welcome to the team. I’m so glad you are here at Codelitt.
+Hi, welcome to the team. I’m so glad you are here at $COMPANY
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and inside jokes.
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. I intend to accelerate our working relationship with this document.
 
-#### Our Average Week
+#### Our average week
 
-You can Slack me 24 hours a day. I like responding quickly, but bear in mind that managing a team of forty plus engineers take some time, so if it isn't something urgent it can take a little bit for me to answer.
+You can Slack me 24 hours a day. I like responding quickly, but bear in mind that managing a team of forty plus engineers take some time, so if it isn't something urgent then it can take a little bit for me to answer. I rarely lose track of the thirty plus mentions I receive on a daily basis, but if I'm taking too long I kindly ask you to send me a reminder.
 
 If I am traveling and we have any meeting scheduled, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations. Since most of the team is in the EST timezone, this is the timezone you will find me doing most of my work.
 
-I work a bit on the weekends, and this is my choice. **I do not expect** that you are going to work on the weekend. I might Slack you things, but unless the thing says URGENT or you have a specific requirement for a project that requires weekend support, it can always wait until work begins for you on Monday. In any case, unless discussed beforehand you don't even need to check  Slack on weekends.
+Learning is a big part of who I am, so work a bit on the weekends, and it won't be uncommon to see me recommending articles or books either directly to you or throwing them on channels where everyone can check.
+
+I try to use the best tools to help me on my daily work, and communication is a big part of a manager, if not the biggest one. I like to be transparent about what I'm doing during work time when I'm not available to the team, When I'm not reachable on Slack you will see in my status what I'm doing, along side with emoji.
+
 
 I take vacations. You should, too. Disconnected from work is when I do some of my best work and catch up on my studies.
 
@@ -30,9 +33,9 @@ It is important to me that humans are treated fairly. I believe that most humans
 ### Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At Codelitt, there is a regular feedback cycle which occurs every quarter. The first time we go through this cycle, we’ll draft a proposed set of OKRs for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. You will receive feedback from your manager as well as anyone you request during the review period.
+I believe in regular feedback cycle which occurs every quarter. The first time we go through this cycle, we’ll draft a proposed set of OKRs for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. You will receive feedback from your manager as well as anyone you request during the review period.
 
-Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in the 1:1s. If you're under me on 15five I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
+Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in the 1:1s. If I'm your direct manager I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
 Disagreement is feedback and the sooner we learn how to disagree with each other efficiently, the sooner we’ll trust and respect each other more. Ideas don’t get better with an agreement.
 
@@ -50,13 +53,8 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
 #### Nuance and Errata
-I am an introvert and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
-
 When the 1:1 feels over, and there is remaining time I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
-
-
-I can be hyperbolic but it’s almost always because I am excited about the topic.
 
 *sidenote: This manager tutorial was heavily based on [Rands](http://randsinrepose.com/archives/how-to-rands/), his thoughts on management align incredibily well with mine.*
