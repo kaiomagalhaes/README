@@ -10,25 +10,26 @@ You can Slack me 24 hours a day. I like responding quickly, but bear in mind tha
 
 If I am traveling and we have any meeting scheduled, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations. Since most of the team is in the EST timezone, this is the timezone you will find me doing most of my work.
 
-Learning is a big part of who I am, so work a bit on the weekends, and it won't be uncommon to see me recommending articles or books either directly to you or throwing them on channels where everyone can check.
+Learning is a big part of who I am, so I study a lot on the weekends, and it won't be uncommon to see me recommending articles or books either directly to you or throwing them on channels where everyone can check.
 
-I try to use the best tools to help me on my daily work, and communication is a big part of a manager, if not the biggest one. I like to be transparent about what I'm doing during work time when I'm not available to the team, When I'm not reachable on Slack you will see in my status what I'm doing, along side with emoji.
+I try to use the best tools to help me on my daily work, and communication is a big part of being a manager, if not the biggest one. I like to be transparent about what I'm doing during work time when I'm not available to the team, When I'm not reachable on Slack you will see in my status what I'm doing, along side with :no_entry: emoji.
 
 
 I take vacations. You should, too. Disconnected from work is when I do some of my best work and catch up on my studies.
 
 #### North Star Principles
+
 **Humans first**. I believe that happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize the business, the technology, or any different number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
-**Leadership comes from everywhere**. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
+**Leadership comes from everywhere**. Being an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead. I highly recommend [this](https://www.goodreads.com/book/show/23848190-extreme-ownership) book for this same reason.
 
 It is important to me that humans are treated fairly. I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
 
 **I heavily bias towards action**. Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-***I believe in the compounding awesomeness of continually fixing small things**. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+**I believe in the compounding awesomeness of continually fixing small things**. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
-***I start with an assumption of positive intent for all involved**. 
+**I start with an assumption of positive intent for all involved**. 
 
 ### Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
@@ -51,6 +52,12 @@ If you ever have any question for me feel free to ask me directly on Slack, and 
 If you send me a presentation deck a reasonable amount of time before a meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+
+#### Reaching out during off hours
+Bad things doesn't wait until we come back to work, and for this solely reasonm, on my Slack profile you will notice that I leave my personal phone number available for the entire company.
+
+Although it is easy to contact me during off hours, I will expect a good reason for doing so.
+
 
 #### Nuance and Errata
 When the 1:1 feels over, and there is remaining time I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
