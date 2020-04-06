@@ -18,9 +18,9 @@ I take vacations. You should, too. Disconnecting from work is when I do some of 
 
 #### North Star Principles
 
-Humans first. I believe that happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize for business, technology, or any different number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders... but my bias is towards building productive humans.
+*Humans first.* I believe that happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize for business, technology, or any different number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders... but my bias is towards building productive humans.
 
-Communication is key to having a better life. I believe that unfortunately we tend to believe that making sounds with our mouth, or writing words in a specific language count as communication, but it does not. Communication happens when two or more sides are understand a message. Having a meeting, writting a letter, writting a message on Slack, and sending a voice message are tools to accomplish communication, and although they can't ensure it happens you can. Before I send every message I assure it:
+*Communication is key to having a better life.* I believe that unfortunately we tend to believe that making sounds with our mouth, or writing words in a specific language count as communication, but it does not. Communication happens when two or more sides are understand a message. Having a meeting, writting a letter, writting a message on Slack, and sending a voice message are tools to accomplish communication, and although they can't ensure it happens you can. Before I send every message I assure it:
 
 1. Gives a context
 2. Is clear on what I need
@@ -28,15 +28,15 @@ Communication is key to having a better life. I believe that unfortunately we te
 
 My rule of thumb is that the person writing the message should spend more time in writting than the one reading spends time on understanding it. I learned most of what I know about this topic through the book [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference?ac=1&from_search=true&qid=mWnyi05oaS&rank=1), needless to say that I recommend you to check it out.
 
-Leadership comes from everywhere. Being an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead. I highly recommend the book [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership?from_search=true&from_srp=true&qid=a6y1MVowGY&rank=1) book for this same reason.
+*Leadership comes from everywhere*. Being an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead. I highly recommend the book [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership?from_search=true&from_srp=true&qid=a6y1MVowGY&rank=1) book for this same reason.
 
 It is important to me that humans are treated fairly. I believe that most humans are trying to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
 
-I heavily bias towards action. Long meetings where we are endlessly debating potential directions are often valuable, but I believe “starting” is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+*I heavily bias towards action.* Long meetings where we are endlessly debating potential directions are often valuable, but I believe “starting” is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
-I believe in the compounding awesomeness of continually fixing small things. I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere and all the time.
+*I believe in the compounding awesomeness of continually fixing small things.* I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere and all the time.
 
-I start with an assumption of positive intent for all involved.
+*I start with an assumption of positive intent for all involved.*
 
 #### Feedback Protocol
 
