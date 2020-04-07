@@ -2,11 +2,11 @@ Hi, welcome to the team. I’m so glad you are here at Codelitt
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all of those baffling acronyms and inside jokes. Even though we are a remote team, many of us try to create relationships with others. Some of us have even traveled to other countries to meet the team! 
 
-One of the working relationships we need to define is between you and I. Think of this as a  user guide for Kaio. It captures what you can expect out of the average week working with me, how I like to work, my North Star principles, and some of my, uh, nuance. I intend to accelerate our working relationship with this document.
+One of the working relationships we need to define is between you and I. Think of this as a user guide for Kaio. It captures what you can expect out of the average week working with me, how I like to work, my North Star principles, and some of my, uh, nuance. I intend to accelerate our working relationship with this document.
 
 #### Our average week
 
-You can always message me on Slack 24 hours a day, but I'm probably going to be checking it only on working hours. I don't have Slack on my personal phone, and I recommend everyone to do the same. We should work while working and not otherwise. I like responding quickly but bear in mind that managing a team as big as ours take some time, so if it isn't something urgent then it may take a little bit of time for me to answer. I rarely lose track of the thirty plus mentions I receive on a daily basis, but if I'm taking too long feel free to send me a reminder.
+You can always message me on Slack 24 hours a day, but I'm probably going to be checking it only on working hours. I don't have Slack on my personal phone, and I recommend everyone to do the same. We should work while working and not otherwise. I like responding quickly but bear in mind that managing a team as big as ours take some time, so if it isn't something urgent then it may take a little bit of time for me to answer. I do my best to read all the slack messages I receive, but if I'm taking too long to reply, a reminder never hurts anyone.
 
 If I am traveling and we have any meetings scheduled, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations. Since most of the team is in the EST timezone, this is the timezone you will find me doing most of my work.
 
