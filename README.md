@@ -1,4 +1,4 @@
-Hi, welcome to the team. I’m so glad you are here at Codelitt
+Hi, welcome to the team.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of complex humans, and complex projects. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all of those baffling acronyms and inside jokes. Even though we are a remote team, many of us try to create relationships with others, I encourage you to do the same. **We do our best work as a team**.
 
